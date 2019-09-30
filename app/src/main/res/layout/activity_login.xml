@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:background="@drawable/header"
+    >
+
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:id="@+id/login_google"
+        android:text="Log in with google"
+        android:textAllCaps="false"
+        android:background="@drawable/button"
+        android:textColor="@color/cardview_light_background"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="50dp"
+        android:drawableStart="@drawable/googleicon"
+        android:paddingLeft="5dp"
+        />
+
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:id="@+id/login_phone"
+        android:layout_below="@+id/login_google"
+        android:text="Log in with Phonenumber"
+        android:textAllCaps="false"
+        android:background="@drawable/button"
+        android:textColor="@color/cardview_light_background"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_marginTop="30dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="50dp"
+        android:drawableStart="@drawable/phone"
+        />
+
+</RelativeLayout>

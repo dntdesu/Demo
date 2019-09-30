@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "1070742541347",
+    "firebase_url": "https://health-e2034.firebaseio.com",
+    "project_id": "health-e2034",
+    "storage_bucket": "health-e2034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070742541347:android:16e66b46fc2872e207cd96",
+        "android_client_info": {
+          "package_name": "jp.ac.ecc.sk3a17.accregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070742541347-tv6rd1hrl4enot05foe3fbjdhlktflit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.ac.ecc.sk3a17.accregister",
+            "certificate_hash": "72f03921a4129abb52a5ef1a1fea488931ef4e43"
+          }
+        },
+        {
+          "client_id": "1070742541347-26dd4smkdtnoqfecp80h66ter7pc9rag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdwKRwtksacuE-RJ0QeZQVl1jpugCmIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070742541347-26dd4smkdtnoqfecp80h66ter7pc9rag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070742541347:android:903201a40f484f1f07cd96",
+        "android_client_info": {
+          "package_name": "jp.ac.ecc.sk3a17.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070742541347-eemoebhgpknr70sfp4ugpscva5khuf1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.ac.ecc.sk3a17.demo",
+            "certificate_hash": "72f03921a4129abb52a5ef1a1fea488931ef4e43"
+          }
+        },
+        {
+          "client_id": "1070742541347-26dd4smkdtnoqfecp80h66ter7pc9rag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdwKRwtksacuE-RJ0QeZQVl1jpugCmIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070742541347-26dd4smkdtnoqfecp80h66ter7pc9rag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070742541347:android:d8628f4a2057b61107cd96",
+        "android_client_info": {
+          "package_name": "jp.ac.ecc.sk3a17.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070742541347-torbrjsp76364l1i4rkkrgu03pkn98lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.ac.ecc.sk3a17.health",
+            "certificate_hash": "72f03921a4129abb52a5ef1a1fea488931ef4e43"
+          }
+        },
+        {
+          "client_id": "1070742541347-26dd4smkdtnoqfecp80h66ter7pc9rag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdwKRwtksacuE-RJ0QeZQVl1jpugCmIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070742541347-26dd4smkdtnoqfecp80h66ter7pc9rag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070742541347:android:56aef5d674f66d4f07cd96",
+        "android_client_info": {
+          "package_name": "jp.ac.ecc.sk3a17.register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070742541347-07a8vunnq764cclfrpr9npk8u3ida81e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.ac.ecc.sk3a17.register",
+            "certificate_hash": "72f03921a4129abb52a5ef1a1fea488931ef4e43"
+          }
+        },
+        {
+          "client_id": "1070742541347-26dd4smkdtnoqfecp80h66ter7pc9rag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdwKRwtksacuE-RJ0QeZQVl1jpugCmIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070742541347-26dd4smkdtnoqfecp80h66ter7pc9rag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

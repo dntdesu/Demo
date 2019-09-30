@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="drawer_open">Drawer Close</string>
+    <string name="drawer_close">Drawer Close</string>
+</resources>
