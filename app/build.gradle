@@ -36,7 +36,7 @@ dependencies {
     //for custom numberPicker
     implementation 'com.shawnlin:number-picker:2.4.8'
     //for google authentication
-    implementation 'com.google.android.gms:play-services-auth:16.0.0'
+    implementation 'com.google.android.gms:play-services-auth:17.0.0'
     //image croper
     api 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
     //for displaying image
